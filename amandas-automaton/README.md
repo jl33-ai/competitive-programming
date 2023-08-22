@@ -7,3 +7,7 @@ Compare, with charts: hill climb, genetic algorithm, simulated annealing w/ diff
 - 
 
 [](https://github.com/jl33-ai/competitive-programming/blob/main/amandas-automaton/3d_rotation_scores_graph_final0.gif)
+
+
+This is both an exploration of **algorithms** and of **empirical data**. 
+CS x DS
