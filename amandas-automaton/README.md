@@ -11,3 +11,5 @@ Compare, with charts: hill climb, genetic algorithm, simulated annealing w/ diff
 
 This is both an exploration of **algorithms** and of **empirical data**. 
 CS x DS
+
+I like CS x DS because it enables us to, with often a few lines, **create** things orders of magntitudes smarter than ourselves.
