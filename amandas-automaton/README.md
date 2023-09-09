@@ -1,5 +1,7 @@
 # Jane Street x UMCPC 
 
+Dynamic dataset exploration from a heuristic search algorithm, derived from a Jane Street x UMCPC competitive programming competition 
+
 to do: 
 - compile in ipynb
 Compare, with charts: hill climb, genetic algorithm, simulated annealing w/ different parameters, simulated ennealing with different heuristic. parameter optimisation for all.
