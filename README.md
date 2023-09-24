@@ -8,4 +8,4 @@ FOR EACH problem
     .md file
 ```
 
-![IMG_3967](https://github.com/jl33-ai/competitive-programming/assets/127172022/32894d75-f736-4097-8b2d-0b88c86cbccd)
+![IMG_3967](https://github.com/jl33-ai/competitive-programming/assets/127172022/d8febb26-3345-4ce8-8951-0e912309aea5) | 400
